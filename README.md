@@ -28,8 +28,8 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 # Clone este repositório.
 $ git clone https://github.com/JPauloMatos/moveit_NLW.git
 
-# Vá para a pasta moveit-nlw4
-$ cd moveit-next
+# Vá para a pasta moveit_NLW
+$ cd moveit_NLW
 
 # Instale as dependências
 $ npm install 
